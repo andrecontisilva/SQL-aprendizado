@@ -1,0 +1,21 @@
+/*
+Site: HackerRank
+Type: Practice
+Subdomain: Aggregation
+Difficulty: Easy
+Skill: SQL (Oracle)
+Problem: Revising The Select Query I
+URL: https://www.hackerrank.com/challenges/revising-the-select-query/problem
+*/
+
+
+-- SOLUTION:
+
+
+
+
+-- v1: Unordered list of continents
+
+-- v2: Continent names by ascending order
+
+-- v3: Continent names by descending order of average population
