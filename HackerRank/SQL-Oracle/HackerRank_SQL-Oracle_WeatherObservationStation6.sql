@@ -29,3 +29,16 @@ SELECT DISTINCT(city)
 FROM station
 WHERE LOWER(SUBSTR(city,1,1)) IN ('a','e','i','o','u')
 ORDER BY city DESC;
+
+
+-- v4: Using Regular Expressions
+SELECT DISTINCT city
+FROM station
+WHERE REGEXP_LIKE(city, '^[AEIOU]');
+
+
+/*
+NOTE:
+More about Regular Expressions in Oracle SQL:
+https://docs.oracle.com/cd/B28359_01/appdev.111/b28424/adfns_regexp.htm#g1015343
+*/
