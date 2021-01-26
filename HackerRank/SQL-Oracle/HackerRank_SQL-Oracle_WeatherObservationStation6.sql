@@ -41,4 +41,5 @@ WHERE REGEXP_LIKE(city, '^[AEIOU]');
 NOTE:
 More about Regular Expressions in Oracle SQL:
 https://docs.oracle.com/cd/B28359_01/appdev.111/b28424/adfns_regexp.htm#g1015343
+https://www.oracletutorial.com/oracle-string-functions/oracle-regexp_like/
 */
