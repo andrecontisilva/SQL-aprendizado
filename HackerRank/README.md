@@ -70,5 +70,6 @@
 | PROBLEM | TYPE | SUBDOMAIN | DIFFICULTY | SOLUTION |
 | :--- | :---| :--- | :--- | :--- |
 | [Type Of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | Practice | Advanced Select | Easy | [Oracle](https://github.com/andrecontisilva/SQL-aprendizado/blob/master/HackerRank/SQL-Oracle/HackerRank_SQL-Oracle_TypeOfTriangle.sql), [MS Server](https://github.com/andrecontisilva/SQL-aprendizado/blob/master/HackerRank/SQL-MSServer/HackerRank_SQL-MSServer_TypeOfTriangle.sql) |
+| [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | Practice | Advanced Select | Medium | [Oracle](https://github.com/andrecontisilva/SQL-aprendizado/blob/beta/HackerRank/SQL-Oracle/HackerRank_SQL-Oracle_ThePADS.sql) |
 
 [:top:](#table-of-contents)
