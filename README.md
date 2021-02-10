@@ -1,2 +1,3 @@
 # SQL-aprendizado
-Meus experimentos para aprendizado de SQL (Oracle e MS Server).
+
+Códigos em SQL (Oracle e MS Server), para aprendizado e referência.
